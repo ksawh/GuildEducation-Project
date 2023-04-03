@@ -5,7 +5,7 @@ The purpose of these cypress tests is to check on a couple end-to-end functional
 ### How to run these tests:
 
 Prerequisite: Node.js and Cypress are installed on your system. 
-Notes: the node version used during the creation of this project is v16.13.0
+Note: The node version used during the creation of this project is v16.13.0
 
 1. Using Visual Studio Code Open the "Guild-Project"
 2. Open a new terminal within VS Code
